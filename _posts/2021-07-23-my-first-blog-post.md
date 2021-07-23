@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to the SharkBuild blog"
 date: 2021-07-23
 ---
 <h1>Developing and building are so similar things...</h1>

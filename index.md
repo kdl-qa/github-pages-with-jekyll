@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to the SharkBuild company"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Our company very yung but very ambitious we use pioneer techniques and always learn market and improve ourselves to be better than now

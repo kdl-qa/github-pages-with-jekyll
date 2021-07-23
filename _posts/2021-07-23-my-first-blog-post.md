@@ -1,0 +1,3 @@
+Developing and building are so similar things...
+
+Remember if you are not improving your company, startup or things in general you'll never know where you can came. 
